@@ -1,0 +1,9 @@
+{
+	"name": "pool123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e403163-7da6-43ad-90ce-8f7398e9467c",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
